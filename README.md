@@ -1,7 +1,4 @@
 # github_practice
 
-hahahaha
-okokok
-cdscsacdas
-fewfewfdsfdsf
-
+new stuff
+ok
